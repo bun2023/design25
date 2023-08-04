@@ -6,7 +6,7 @@
     slidesPerView: 1,
     // spaceBetween: 30,
     loop: true,
-    speed: 3000,
+    speed: 2500,
     autoplay: {
       delay: 2500,
       disableOnInteraction: false,
